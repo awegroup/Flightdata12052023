@@ -6,14 +6,14 @@ The measured ground wind speed during the flight was between 4 and 10 m/s, the a
 One of the objectives was the measurement of the acoustic ground footprint of the system <a href="#Bouman2023">[1]</a>.
 
 ![](./media/20230512_dirksland.jpg)
-Measuring the acoustic footprint of the kite with a microphone. Photo by Naomi Bouman, 12 May 2023.
+*Measuring the acoustic footprint of the kite with a microphone. Photo by Naomi Bouman, 12 May 2023.*
 
 The wind direction during the test was North East (↙), resulting in the flight direction of the kite being South West. 
 The microphone for sound recordings was placed downwind at a distance of 650 m from the ground station. 
 The flight zone of the kite, the winch and the location of the microphone are shown in the following illustration.
 
 ![](./media/20230512_map.jpg)
-Overview of the measurement setup with the flight zone indicated in the yellow area. The GPS location of the ground station was 51.76862°, 4.1189°. Illustration by Naomi Bouman, 12 May 2023.
+*Overview of the measurement setup with the flight zone indicated in the yellow area. The GPS location of the ground station was 51.76862°, 4.1189°. Illustration by Naomi Bouman, 12 May 2023.*
 
 The following amateur video illustrates the first 2 minutes of the test flight, including the launch of the kite. 
 
@@ -34,7 +34,7 @@ The main system parameters are listed in the following table, the kite, the susp
 | Total mass                   | 62 kg     |              |           | Total mass      | 31.6 kg   |
 
 ![](./media/launch_setup.jpg)
-V9 kite with KCU in the foreground before launch (left), and KCU with mounted ram-air turbine (right).
+*V9 kite with KCU in the foreground before launch (left), and KCU with mounted ram-air turbine (right).*
 
 ## Key measurements include:
 
@@ -43,7 +43,7 @@ V9 kite with KCU in the foreground before launch (left), and KCU with mounted ra
 - **Tether Force**: Measured at the ground station using a load cell and an elevation angle encoder.
 
 ![](./media/cycle_6.png)
-Data plotted for the 6th pumping cycle.
+*Data plotted for the 6th pumping cycle.*
 
 ## Terms and requests concerning using the data:
 The contents of this repository are published under a CC BY-NC 4.0 license: the data can be used as long as attribution is made to this repository. Nevertheless, if you pursue a publication that uses the data we request you to:
